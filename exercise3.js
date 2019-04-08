@@ -14,8 +14,8 @@ function isMonday(val) {
       answer = "Tuesday";
       break;
   }
-  
-
+  return answer; 
+}
 
 
 
