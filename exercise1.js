@@ -6,7 +6,10 @@ console.log("exercise1.js start");
 
 
 
-
+function multiplyThem(num1, num2) {
+  return num1 * num2;
+}
+            
 
 
 
