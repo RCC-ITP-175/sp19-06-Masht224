@@ -11,6 +11,7 @@ function multiplyThem(num1, num2) {
 }
             
 
+console.log(mulitplyThem(num1, num2));
 
 
 

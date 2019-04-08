@@ -13,6 +13,7 @@ function isProg(Prog) {
   return "False:;
 }
 
+console.log(IsProg('prgrmmng'));
 
 
 

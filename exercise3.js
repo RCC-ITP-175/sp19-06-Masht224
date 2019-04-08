@@ -4,8 +4,8 @@ console.log("exercise3.js start");
 // as an argument and uses a switch statement to determine
 // if that string is equal to Monday.
 
-function isMonday(val) {
-  var answer = "";
+function isMonday(Mon) {
+  var answer
   switch(val) {
     case 1:
       answer = "Monday";
@@ -17,8 +17,12 @@ function isMonday(val) {
   return answer; 
 }
 
-
-
+function ifMonday(Monday) {
+  if (Monday) {
+  return "True";
+}
+return "False";
+}
 
 
 
