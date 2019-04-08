@@ -6,7 +6,12 @@ console.log("exercise2.js start");
 
 
 
-
+function isProg(Prog) {
+  if (prog) {
+    return "True";
+  }
+  return "False:;
+}
 
 
 
