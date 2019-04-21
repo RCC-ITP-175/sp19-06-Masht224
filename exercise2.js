@@ -5,13 +5,18 @@ console.log("exercise2.js start");
 // starts with the letters "prog" and false otherwise. 
 
 
-
 function isProg(Prog) {
   if (prog) {
     return "True";
   }
   return "False";
 }
+///////////////////////
+// INSTRUCTOR FEEDBACK
+///////////////////////
+// On line 9 if (prog) is only checking if a variable named
+// prog exists, it isn't checking to see if it is a string
+// that starts with the letters "prog"
 
 console.log(IsProg('prgrmmng'));
 
