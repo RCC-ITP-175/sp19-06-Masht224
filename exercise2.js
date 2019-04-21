@@ -10,7 +10,7 @@ function isProg(Prog) {
   if (prog) {
     return "True";
   }
-  return "False:;
+  return "False";
 }
 
 console.log(IsProg('prgrmmng'));
