@@ -4,6 +4,11 @@ console.log("exercise3.js start");
 // as an argument and uses a switch statement to determine
 // if that string is equal to Monday.
 
+///////////////////////
+// INSTRUCTOR FEEDBACK
+///////////////////////
+// Your isMonday function is almost there. I posted some links in Slack #sp19-06-project
+// that may help.
 function isMonday(Monday) {
   var answer
   switch(val) {
